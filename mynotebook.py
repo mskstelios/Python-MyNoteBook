@@ -7,8 +7,6 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import Qt
-
-# Import your custom modules
 from welcoming import show_initial_message, reset_welcome_message
 from Menu.file_menu import create_file_menu
 from Menu.edit_menu import create_edit_menu

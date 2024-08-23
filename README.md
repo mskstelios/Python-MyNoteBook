@@ -19,13 +19,13 @@
   <h3>Installation</h3>
     <ol>
         <li><strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/yourusername/MyNoteBook.git</code></pre>
+            <pre><code>git clone https://github.com/mskstelios/Python-MyNoteBook.git</code></pre>
         </li>
         <li><strong>Navigate to the Project Directory:</strong>
-            <pre><code>cd MyNoteBook</code></pre>
+            <pre><code>cd Python-MyNoteBook</code></pre>
         </li>
         <li><strong>Run the Application:</strong>
-            <pre><code>python main.py</code></pre>
+            <pre><code>python mynotebook.py</code></pre>
         </li>
     </ol>
 

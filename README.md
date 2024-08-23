@@ -39,7 +39,7 @@
     </ol>
 
    <h2>Screenshots</h2>
-    <img src="screenshots/program.png" alt="Editing Interface" class="screenshot">
+    <img src="Screenshots/program.png" alt="Text Editor" class="screenshot">
     <p><em>The Editor</em></p>
 
 
